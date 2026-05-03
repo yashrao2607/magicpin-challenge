@@ -188,7 +188,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ### 👤 Author
 **Yash Yadav**
 *   BML Munjal University
-*   [GitHub Profile](https://github.com/yash-yadav)
+*   
 
 ### 🏆 Acknowledgments
 *   **magicpin AI Team** for the challenge brief and dataset.
